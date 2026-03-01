@@ -16,7 +16,7 @@
 
 - **播放次数**：记录 `/Sessions/Playing` 接口调用
 - **获取链接次数**：记录 `/PlaybackInfo` 接口调用
-- **直接访问 `/stats` 端点查看最新的数据
+- **直接访问 `/stats` 端点查看最新的统计数据**
 - **数据存储**：按北京时间（UTC+8）按天存储
 - **数据展示**：在前端页面实时显示统计数据
 
@@ -91,6 +91,11 @@ https://你的worker域名/你的emby服务器地址:端口
 
 - **反馈群组**：[https://t.me/Dirige_Proxy](https://t.me/Dirige_Proxy)
 - 欢迎加入群组讨论使用问题和功能建议
+
+## 相关服务
+- **已部署好可直接食用地址
+- **通用反代地址**：https://fd.dirige.de5.net
+- **EMOS 反代域名**：https://emos.dirige.de5.net
 
 ## 许可证
 
